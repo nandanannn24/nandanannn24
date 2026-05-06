@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ██████████████████ HERO BANNER ██████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NANDA.SYS&fontSize=80&fontColor=00f5ff&color=0:0b0914,50:1e1136,100:0b0914&stroke=9d4edd&strokeWidth=1.5&animation=fadeIn&desc=System%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=75&descSize=16&descColor=b829ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NandaNannn&fontSize=80&fontColor=00f5ff&color=0:0b0914,50:1e1136,100:0b0914&stroke=9d4edd&strokeWidth=1.5&animation=fadeIn&desc=System%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=75&descSize=16&descColor=b829ea" width="100%"/>
 
 <!-- ██████████████████ TYPING SVG ██████████████████ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%3E+INITIALIZING+NANDA.SYS...;%3E+FULL-STACK+ARCHITECT+AT+UPN+VETERAN+JATIM;%3E+FREELANCE+TECH+LEAD+FOR+KO+TIM+%40+TEM+PRODUCTION;%3E+PUSHING+IMMORTAL+RANK+WITH+FREYA;%3E+GUARDED+BY+A+2022+DATA+SCIENCE+MAJOR+%F0%9F%94%92;%3E+SPECS%3A+181CM+%2F+85KG+%7C+BUILT+DIFFERENT" alt="Typing SVG" />
