@@ -60,11 +60,11 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandanannn24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&icon_color=9d4edd&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nandanannn24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&icon_color=9d4edd&text_color=c9d1d9&border_radius=12&include_all_commits=true&rank_icon=github" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanannn24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&text_color=c9d1d9&border_radius=12&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nandanannn24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&text_color=c9d1d9&border_radius=12&langs_count=8" width="100%"/>
 
 </td>
 </tr>
