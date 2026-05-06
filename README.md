@@ -156,42 +156,46 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/nandanannn24">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanannn24&repo=nexus-omni&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&icon_color=9d4edd&text_color=c9d1d9&border_radius=12" width="100%"/>
+<div align="center">
+<br/>
+<a href="https://lockerrom-clothing.netlify.app/">
+<img src="https://img.shields.io/badge/DEPLOYMENT-LOCKERROOM_CLOTHING-00f5ff?style=for-the-badge&labelColor=0b0914&logo=netlify&logoColor=white" />
 </a>
+</div>
 
 ```
-┌─── NEXUS OMNI ───────────────────────────────────┐
-│  TYPE    : AI Platform + Local Network Hub        │
-│  STACK   : Node.js · Python · LLM APIs · n8n     │
-│  ROLE    : Lead Architect + Full-Stack Dev        │
-│  STATUS  : 🟢 IN DEVELOPMENT                      │
-│  DESC    : Intelligent automation platform de-    │
-│            signed to optimize complex workflows.  │
-│            Aggregating multiple LLMs via n8n      │
-│            pipelines to deliver highly scalable   │
-│            and efficient AI-driven solutions.     │
+┌─── LOCKERROOM CLOTHING ──────────────────────────┐
+│  TYPE    : Screen-Printing E-Commerce             │
+│  STACK   : React · WebGL · Vite · Netlify         │
+│  ROLE    : Full-Stack Developer                   │
+│  STATUS  : 🟢 LIVE DEPLOYMENT                      │
+│  DESC    : Modern web application for custom      │
+│            screen-printing orders. Features a     │
+│            seamless UI for product selection      │
+│            and efficient order processing.        │
 └───────────────────────────────────────────────────┘
 ```
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/nandanannn24">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanannn24&repo=siperu&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&icon_color=9d4edd&text_color=c9d1d9&border_radius=12" width="100%"/>
+<div align="center">
+<br/>
+<a href="https://teras-rumah-karlos.netlify.app/">
+<img src="https://img.shields.io/badge/DEPLOYMENT-TERAS_RUMAH_KARLOS-9d4edd?style=for-the-badge&labelColor=0b0914&logo=netlify&logoColor=white" />
 </a>
+</div>
 
 ```
-┌─── SiPeRu ───────────────────────────────────────┐
-│  TYPE    : Campus Digital Room Reservation System │
-│  STACK   : Laravel · MySQL · React · Tailwind     │
-│  ROLE    : Full-Stack Dev + Designer              │
-│  STATUS  : 🟢 AWAITING CAMPUS APPROVAL             │
-│  DESC    : Comprehensive digital room reservation │
-│            system for UPN Jatim. Features robust  │
-│            scheduling logic, role-based access    │
-│            control, and real-time slot management │
-│            to streamline academic operations.     │
+┌─── TERAS RUMAH KARLOS ───────────────────────────┐
+│  TYPE    : Retail & Printing Services             │
+│  STACK   : React · Tailwind · Netlify             │
+│  ROLE    : Lead Full-Stack Developer              │
+│  STATUS  : 🟢 LIVE DEPLOYMENT                      │
+│  DESC    : Digital storefront for purchasing      │
+│            office supplies (ATK), printing,       │
+│            photocopies, and passport photos.      │
+│            Streamlines local business operations. │
 └───────────────────────────────────────────────────┘
 ```
 
@@ -202,43 +206,46 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/nandanannn24">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanannn24&repo=kawan_umkm&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&icon_color=9d4edd&text_color=c9d1d9&border_radius=12" width="100%"/>
+<div align="center">
+<br/>
+<a href="https://titik-demo.vercel.app/">
+<img src="https://img.shields.io/badge/DEPLOYMENT-TITIK_IYREF-00f5ff?style=for-the-badge&labelColor=0b0914&logo=vercel&logoColor=white" />
 </a>
+</div>
 
 ```
-┌─── KAWAN UMKM ───────────────────────────────────┐
-│  TYPE    : SME Digitalization Platform            │
-│  STACK   : Python (BE) · React · TypeScript (FE)  │
-│  ROLE    : Full-Stack + Team Lead                 │
-│  STATUS  : 🏆 FINALIST MIA 2025 — WEB IN ACTION   │
-│  TEAM    : Sekawan Papat                          │
-│  DESC    : Empowering SME owners to manage their  │
-│            products and access business analytics.│
-│            Developed with a Python REST backend   │
-│            and a responsive React SPA frontend.   │
-│            Recognized in MIA 2025 Web In Action.  │
+┌─── TITIK: IYREF COMPETITION ─────────────────────┐
+│  TYPE    : Event & Competition Management         │
+│  STACK   : React · Next.js · Vercel               │
+│  ROLE    : Frontend / Team Developer              │
+│  STATUS  : 🟢 LIVE DEPLOYMENT                      │
+│  DESC    : Official website for the IYREF         │
+│            competition, developed collaboratively │
+│            with a team. Designed to manage        │
+│            event operations and registrations.    │
 └───────────────────────────────────────────────────┘
 ```
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/nandanannn24">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanannn24&repo=lockerroom-clothing&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&icon_color=9d4edd&text_color=c9d1d9&border_radius=12" width="100%"/>
+<div align="center">
+<br/>
+<a href="mailto:priyogalistyoananda26@gmail.com">
+<img src="https://img.shields.io/badge/INQUIRE-WHATSAPP_BOT_API-9d4edd?style=for-the-badge&labelColor=0b0914&logo=whatsapp&logoColor=white" />
 </a>
+</div>
 
 ```
-┌─── LOCKERROOM CLOTHING + 3D PORTFOLIO ───────────┐
-│  TYPE    : E-Commerce + WebGL 3D Portfolio        │
-│  STACK   : TypeScript · Three.js · React · Vite  │
-│  ROLE    : Dev + 3D Artist + Designer (solo)      │
-│  STATUS  : 🟢 LIVE                                 │
-│  DESC    : Full-featured TypeScript e-commerce    │
-│            platform for TEM Production. Integrates│
-│            advanced WebGL and custom Three.js     │
-│            shaders to deliver a highly immersive  │
-│            and visually immaculate 3D experience. │
+┌─── WHATSAPP BOT INTEGRATION ─────────────────────┐
+│  TYPE    : Automated AI Chatbot Assistant         │
+│  STACK   : Node.js · WhatsApp Web JS · REST API   │
+│  ROLE    : System Integrator & AI Engineer        │
+│  STATUS  : 🟢 ACTIVE (API INTEGRATED)              │
+│  DESC    : WhatsApp chatbot directly integrated   │
+│            with APIs for automated workflows      │
+│            and smart responses. For inquiries     │
+│            or access, contact via email.          │
 └───────────────────────────────────────────────────┘
 ```
 
