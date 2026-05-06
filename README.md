@@ -28,27 +28,29 @@
 <td width="58%" valign="top">
 
 ### `〔 01 〕` ⬡ OPERATOR PROFILE — THE LORE
+```yaml### `〔 01 〕` ⬡ OPERATOR PROFILE — THE LORE
+
 ```yaml
 ╔══════════════════════════════════════════════════════╗
 ║        OPERATOR DOSSIER :: NANDA v2.5.1              ║
 ╠══════════════════════════════════════════════════════╣
 ║  ALIAS       : Priyoga Listyo Ananda                 ║
-║  CALLSIGN    : Nanda (Never call me Yoga. Ever.)     ║
-║  CLASS       : Full-Stack Architect & AI Wrangler    ║
+║  CALLSIGN    : Nanda (Never call me Yoga)            ║
+║  CLASS       : Full-Stack Architect & AI Engineer    ║
 ║  INSTITUTION : UPN "Veteran" Jawa Timur              ║
 ║              : Informatics — Class of 2024           ║
-║  STATUS      : Trying to survive Pak Ajun's grading  ║
-║              : system (Please pass me, Sir)          ║
-║  CURRENT OBJ : Building "SiPeRu" until I get acid    ║
-║              : reflux & scaling "Nexus Omni" to look ║
-║              : elitist.                              ║
-║  FUN FACT    : SMKN 3 Buduran TKJ Alum               ║
-║              : 181cm / 85kg                          ║
-║              : One-Trick Freya in MLBB.              ║
+║  CURRENT OBJ : Architecting "SiPeRu" system &        ║
+║              : scaling "Nexus Omni" infrastructure.  ║
+║  BACKGROUND  : SMKN 3 Buduran TKJ Alum               ║
+║  SPECS       : 181cm / 85kg | Built Different        ║
+║  GAMING      : MLBB Immortal Rank (Freya Main) ⚔️    ║
 ╠══════════════════════════════════════════════════════╣
 ║  RELATIONSHIP: Locked down by Data Science 2022 🔒   ║
-║  DARK MODE   : Not a preference, it's a lifestyle    ║
+║  DARK MODE   : System Default = True                 ║
 ╚══════════════════════════════════════════════════════╝
+</td>
+<td width="4%"></td>
+<td width="38%" valign="top">
 
 
 ### `〔 02 〕` ⬡ DEVELOPMENT UPTIME
