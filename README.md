@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NandaNannn&fontSize=80&fontColor=00f5ff&color=0:0b0914,50:1e1136,100:0b0914&stroke=9d4edd&strokeWidth=1.5&animation=fadeIn&desc=System%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=75&descSize=16&descColor=b829ea" width="100%"/>
 
 <!-- ██████████████████ TYPING SVG ██████████████████ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%3E+INITIALIZING+NANDA.SYS...;%3E+FULL-STACK+ARCHITECT+AT+UPN+VETERAN+JATIM;%3E+FREELANCE+TECH+LEAD+FOR+KO+TIM+%40+TEM+PRODUCTION;%3E+PUSHING+IMMORTAL+RANK+WITH+FREYA;%3E+GUARDED+BY+A+2022+DATA+SCIENCE+MAJOR+%F0%9F%94%92;%3E+SPECS%3A+181CM+%2F+85KG+%7C+BUILT+DIFFERENT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%3E+INITIALIZING+NANDA.SYS...;%3E+FULL-STACK+ARCHITECT+AT+UPN+VETERAN+JATIM;%3E+INDEPENDENT+FULL-STACK+FREELANCER;%3E+PUSHING+IMMORTAL+RANK+WITH+FREYA;%3E+GUARDED+BY+A+2022+DATA+SCIENCE+MAJOR+%F0%9F%94%92;%3E+SPECS%3A+181CM+%2F+85KG+%7C+BUILT+DIFFERENT" alt="Typing SVG" />
 
 <br/>
 
 <!-- ██████████████████ STATUS PILLS ██████████████████ -->
 <img src="https://img.shields.io/badge/STATUS-CODING_LATE_NIGHTS-00f5ff?style=for-the-badge&labelColor=0b0914&logo=statuspage&logoColor=00f5ff"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MISSION-IMPRESSING_KO_TIM-9d4edd?style=for-the-badge&labelColor=0b0914"/>
+<img src="https://img.shields.io/badge/MISSION-BUILDING_NEXUS_OMNI-9d4edd?style=for-the-badge&labelColor=0b0914"/>
 &nbsp;
 <img src="https://img.shields.io/badge/MODE-DARK_THEME_ONLY-1e1136?style=for-the-badge&labelColor=0b0914&logo=github&logoColor=c9d1d9"/>
 &nbsp;
@@ -28,7 +28,6 @@
 <td width="58%" valign="top">
 
 ### `〔 01 〕` ⬡ OPERATOR PROFILE — THE LORE
-
 ```yaml
 ╔══════════════════════════════════════════════════════╗
 ║        OPERATOR DOSSIER :: NANDA v2.5.1              ║
@@ -40,7 +39,7 @@
 ║              : Informatics — Class of 2024           ║
 ║  STATUS      : Trying to survive Pak Ajun's grading  ║
 ║              : system (Please pass me, Sir)          ║
-║  CURRENT OBJ : Building "SiPeRu" until I get acid   ║
+║  CURRENT OBJ : Building "SiPeRu" until I get acid    ║
 ║              : reflux & scaling "Nexus Omni" to look ║
 ║              : elitist.                              ║
 ║  FUN FACT    : SMKN 3 Buduran TKJ Alum               ║
@@ -50,11 +49,7 @@
 ║  RELATIONSHIP: Locked down by Data Science 2022 🔒   ║
 ║  DARK MODE   : Not a preference, it's a lifestyle    ║
 ╚══════════════════════════════════════════════════════╝
-```
 
-</td>
-<td width="4%"></td>
-<td width="38%" valign="top">
 
 ### `〔 02 〕` ⬡ DEVELOPMENT UPTIME
 
