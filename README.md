@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ██████████████████ HERO BANNER ██████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NANDA_K3C3_B4D41&fontSize=80&fontColor=00f5ff&color=0:0d0d0d,50:0a0a2e,100:0d0d0d&stroke=00f5ff&strokeWidth=1.5&animation=fadeIn&desc=Kuli%20Koding%20%7C%20Beban%20Pak%20Ajun%20%7C%20Alumni%20TKJ%20Buduran&descAlignY=75&descSize=16&descColor=7b8cde" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NandaNannn&fontSize=80&fontColor=00f5ff&color=0:0d0d0d,50:0a0a2e,100:0d0d0d&stroke=00f5ff&strokeWidth=1.5&animation=fadeIn&desc=Kuli%20Koding%20%7C%20Beban%20Pak%20Ajun%20%7C%20Alumni%20TKJ%20Buduran&descAlignY=75&descSize=16&descColor=7b8cde" width="100%"/>
 
 <!-- ██████████████████ TYPING SVG ██████████████████ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%3E+LAGI+NGE-LOAD+DATA+ORANG+GANTENG...;%3E+KULI+KETIK+FULL-STACK+%2F+ANAK+UPN+JATIM;%3E+BUDAK+CORPORATE+TEM+PRODUCTION;%3E+MAIN+FREYA+SAMPE+IMMORTAL+COK;%3E+DIJAGA+KETAT+ANAK+DATA+SCIENCE+2022;%3E+SPEK+FISIK%3A+181CM+%2F+85KG+-+IDAMAN+MERTUA" alt="Typing SVG" />
