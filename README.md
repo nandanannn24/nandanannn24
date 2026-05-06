@@ -158,7 +158,7 @@
 
 <div align="center">
 <br/>
-<a href="https://lockerrom-clothing.netlify.app/">
+<a href="https://lockerroom-clothing.netlify.app/">
 <img src="https://img.shields.io/badge/DEPLOYMENT-LOCKERROOM_CLOTHING-00f5ff?style=for-the-badge&labelColor=0b0914&logo=netlify&logoColor=white" />
 </a>
 </div>
