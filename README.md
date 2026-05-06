@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- ██████████████████ HERO BANNER ██████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NANDA.EXE&fontSize=80&fontColor=00f5ff&color=0:0d0d0d,50:0a0a2e,100:0d0d0d&stroke=00f5ff&strokeWidth=1.5&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20System%20Architect%20%7C%20AI%20Automation%20Enthusiast&descAlignY=75&descSize=16&descColor=7b8cde" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NANDA.EXE&fontSize=80&fontColor=00f5ff&color=0:0d0d0d,50:0a0a2e,100:0d0d0d&stroke=00f5ff&strokeWidth=1.5&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20Kuli%20Koding%20TEM%20Production%20%7C%20Calon%20Sarjana%20(Insyaallah)&descAlignY=75&descSize=16&descColor=7b8cde" width="100%"/>
 
 <!-- ██████████████████ TYPING SVG ██████████████████ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%3E%20INITIALIZING+PROFILE+SEQUENCE...;%3E%20LOADING+NANDA%27S+SYSTEM+MODULES...;%3E%20FULL-STACK+DEVELOPER+%2F+SYSTEM+ARCHITECT;%3E%20AI+AUTOMATION+%2B+LLM+INTEGRATION+SPECIALIST;%3E%20CREATIVE+CONTENT+CREATOR+%2F+3D+WEB+ENGINEER;%3E%20INFORMATICS+@+UPN+%22VETERAN%22+JAWA+TIMUR;%3E%20RANK%3A+IMMORTAL+%E2%9A%94%EF%B8%8F+%7C+MAIN%3A+FREYA;%3E%20BUILD+MODE%3A+ALWAYS+ON+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%3E+BOOTING+SISTEM...+NGOPI+DULU+BENTAR;%3E+NAMA+GUE+NANDA%2C+JANGAN+PANGGIL+YOGA;%3E+FULL-STACK+DEV+%2F+ARSITEK+SISTEM+%2F+KULI+KO+TIM;%3E+MAHASISWA+TI+UPN+%22VETERAN%22+JATIM+(DOA+PAK+AJUN);%3E+ALUMNI+SMKN+3+BUDURAN+JURUSAN+TKJ+PROUD;%3E+181+CM+85+KG+%E2%80%94+TINGGI+TAPI+DEADLINE+TETEP+NGEJER;%3E+FREYA+MAIN%2C+IMMORTAL+TARGET%2C+RANKED+GRIND+TIAP+MALEM;%3E+DIJAGA+KETAT+SAMA+PACAR+DATA+SCIENCE+2022+%F0%9F%94%92" alt="Typing SVG" />
 
 <br/>
 
 <!-- ██████████████████ STATUS PILLS ██████████████████ -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00f5ff"/>
+<img src="https://img.shields.io/badge/STATUS-NGODING_SAMBIL_NGOPI-00f5ff?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00f5ff"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MISSION-BUILDING_THE_FUTURE-7b5ea7?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/MISI-BIKIN_KO_TIM_BANGGA-7b5ea7?style=for-the-badge&labelColor=0d0d0d"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MODE-DARK_ONLY-1a1a2e?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/MODE-DARK_ONLY_HARAM_LIGHT-1a1a2e?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=c9d1d9"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=nandanannn24&style=for-the-badge&color=0a0a2e&label=PROFILE+SCANS&abbreviated=true"/>
+<img src="https://komarev.com/ghpvc/?username=nandanannn24&style=for-the-badge&color=0a0a2e&label=YANG+UDAH+KEPO&abbreviated=true"/>
 
 </div>
 
@@ -27,28 +27,33 @@
 <tr>
 <td width="58%" valign="top">
 
-### `〔 01 〕` ⬡ EXECUTIVE SUMMARY — THE LOWDOWN
+### `〔 01 〕` ⬡ EXECUTIVE SUMMARY — SIAPA SIH GUE?
 
 ```yaml
 ╔══════════════════════════════════════════════════════╗
-║          OPERATOR PROFILE :: NANDA v2.5.1            ║
+║        PROFIL OPERATOR :: NANDA v2.5.1               ║
 ╠══════════════════════════════════════════════════════╣
-║  CODENAME    : Priyoga Listyo Ananda                 ║
-║  ALIAS       : nandanannn24                          ║
+║  NAMA ASLI   : Priyoga Listyo Ananda                 ║
+║  PANGGILAN   : Nanda (bukan Yoga, serius jangan)     ║
 ║  CLASS       : Full-Stack Developer                  ║
-║              : System Architect                      ║
+║              : System Architect (katanya)            ║
 ║              : AI Automation Engineer                ║
-║              : Creative Content Creator              ║
-║  INSTITUTION : UPN "Veteran" Jawa Timur              ║
-║  MAJOR       : Informatics Engineering               ║
-║  TIMEZONE    : WIB (UTC+7) — Surabaya, Indonesia     ║
+║              : Kuli Koding Profesional               ║
+║  KAMPUS      : UPN "Veteran" Jawa Timur              ║
+║  PRODI       : Teknik Informatika                    ║
+║  DOSEN WALI  : Pak Ajun (tolong ACC-in tugas saya)   ║
+║  SMK ASAL    : SMKN 3 Buduran — Jurusan TKJ 💪       ║
+║  TIMEZONE    : WIB (UTC+7) — Surabaya, nongkrong     ║
 ╠══════════════════════════════════════════════════════╣
-║  CURRENT OBJ : Building complex system architectures ║
-║                AI-integrated LLM pipelines (n8n)     ║
-║                3D immersive web experiences          ║
+║  STATS FISIK : 181 cm · 85 kg · tapi tetep burnout   ║
+║  KANTOR      : TEM Production (hamba Ko Tim)         ║
+║  CURRENT OBJ : Bikin arsitektur gila-gilaan          ║
+║                Pipeline AI + LLM biar keliatan keren ║
+║                WebGL 3D biar client bayar mahal      ║
 ╠══════════════════════════════════════════════════════╣
-║  FUN FACT    : Grinds ML to Immortal on Freya ⚔️     ║
-║                Dark mode is a lifestyle, not a theme ║
+║  RELATIONSHIP: Dijaga ketat Data Science 2022 🔒     ║
+║  GAME STATUS : Push rank Immortal pake Freya ⚔️      ║
+║  DARK MODE   : Bukan preferensi, ini prinsip hidup   ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -76,7 +81,7 @@
 
 <div align="center">
 
-### `〔 03 〕` ⬡ COMMIT STREAK TELEMETRY
+### `〔 03 〕` ⬡ DATA COMMIT — BUKTI GUE EMANG KERJA KERAS (ATAU LAGI PANIK DEADLINE)
 
 <img src="https://streak-stats.demolab.com?user=nandanannn24&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00f5ff&fire=7b5ea7&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=7b8cde&stroke=00f5ff30&border_radius=12" width="80%"/>
 
@@ -86,29 +91,29 @@
 
 <!-- ██████████████████ TECH STACK MATRIX ██████████████████ -->
 
-### `〔 04 〕` ⬡ TECH STACK MATRIX
+### `〔 04 〕` ⬡ SENJATA PERANG — TECH STACK GUE
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
 
 <tr>
 <td width="50%" valign="top" align="center">
 
-#### ⬡ BACKEND & SYSTEMS LAYER
+#### ⬡ BACKEND & LAYER SISTEM (DAPUR YANG SELALU BERANTAKAN)
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,laravel,mysql,mongodb,debian,linux&theme=dark&perline=7" />
 
 <br/>
-<sub><code>VMware · MikroTik · REST APIs · Bash Scripting</code></sub>
+<sub><code>VMware · MikroTik · REST APIs · Bash · warisan ilmu TKJ SMKN 3 Buduran yang ternyata berguna</code></sub>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-#### ⬡ FRONTEND & 3D WEB LAYER
+#### ⬡ FRONTEND & 3D WEB (BAGIAN YANG BIKIN KLIEN BILANG "WAAAH")
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,threejs,figma&theme=dark&perline=7" />
 
 <br/>
-<sub><code>Three.js · WebGL · Shader Programming · Responsive UI</code></sub>
+<sub><code>Three.js · WebGL · Shader · UI yang bikin orang nanya "pake template mana bos?"</code></sub>
 
 </td>
 </tr>
@@ -116,22 +121,22 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-#### ⬡ AI & AUTOMATION PIPELINE
+#### ⬡ AI & AUTOMATION (BIAR KERJAANNYA BISA DIKERJAIN ROBOT)
 
 <img src="https://skillicons.dev/icons?i=tensorflow,python,githubactions,discord&theme=dark&perline=7" />
 
 <br/>
-<sub><code>n8n Workflows · LLM APIs · Google AI Studio · Prompt Engineering · RAG Pipelines</code></sub>
+<sub><code>n8n Workflows · LLM APIs · Google AI Studio · Prompt Engineering · biar bisa tidur lebih awal</code></sub>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-#### ⬡ MULTIMEDIA & CREATIVE STACK
+#### ⬡ MULTIMEDIA & CREATIVE (SIDE QUEST YANG LAMA-LAMA JADI MAIN QUEST)
 
 <img src="https://skillicons.dev/icons?i=blender,ae,pr,figma,ps&theme=dark&perline=7" />
 
 <br/>
-<sub><code>Blender · Adobe Premiere Pro · After Effects · Motion Graphics</code></sub>
+<sub><code>Blender · Premiere Pro · After Effects · belajar sendiri · nangis sendiri · bangga sendiri</code></sub>
 
 </td>
 </tr>
@@ -139,7 +144,7 @@
 <tr>
 <td colspan="2" align="center">
 
-#### ⬡ INFRASTRUCTURE & DEVTOOLS
+#### ⬡ INFRASTRUKTUR & DEVTOOLS (PERLENGKAPAN TEMPUR HARIAN)
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,nginx,cloudflare&theme=dark&perline=7" />
 
@@ -152,7 +157,7 @@
 
 <!-- ██████████████████ FEATURED PROJECTS ██████████████████ -->
 
-### `〔 05 〕` ⬡ FEATURED ENGINEERING PROJECTS
+### `〔 05 〕` ⬡ PROYEK KEBANGGAAN (DAN BIANG KELADI KURANG TIDUR GUE)
 
 <table width="100%" border="0" cellspacing="0" cellpadding="8">
 
@@ -166,14 +171,15 @@
 
 ```
 ┌─── NEXUS OMNI ───────────────────────────────────┐
-│  TYPE    : AI Platform + Network Provider Hub     │
+│  TYPE    : Platform AI + Hub Jaringan Lokal       │
 │  STACK   : Node.js · Python · LLM APIs · n8n     │
-│  ROLE    : Lead Architect + Full-Stack Dev        │
-│  STATUS  : 🟢 ACTIVE DEVELOPMENT                  │
-│  DESC    : Unified platform aggregating AI tools  │
-│            & local network management services.   │
-│            Integrates multiple LLM providers with │
-│            a self-hosted n8n automation backbone. │
+│  ROLE    : Lead Arsitek + Full-Stack Dev          │
+│  STATUS  : 🟢 LAGI DIKERJAIN (BENERAN, SERIUS)    │
+│  DESC    : Platform gede buat nyatuin semua tools │
+│            AI sekaligus manage jaringan lokal.    │
+│            Multi-LLM provider disatuin, dijalanin │
+│            pake n8n otomasi — biar gue bisa tidur │
+│            lebih dari 4 jam. Doain ya.            │
 └───────────────────────────────────────────────────┘
 ```
 
@@ -186,14 +192,15 @@
 
 ```
 ┌─── SiPeRu ───────────────────────────────────────┐
-│  TYPE    : Campus Digital Room Reservation System │
+│  TYPE    : Sistem Reservasi Ruangan Kampus        │
 │  STACK   : Laravel · MySQL · React · Tailwind     │
-│  ROLE    : Full-Stack Developer + UI/UX Designer  │
-│  STATUS  : 🟢 DEPLOYED                            │
-│  DESC    : End-to-end digital reservation system  │
-│            for campus facility management. Smart  │
-│            scheduling, real-time availability &   │
-│            role-based access control built in.    │
+│  ROLE    : Full-Stack Dev + Designer (capek)      │
+│  STATUS  : 🟢 DEPLOYED (akhirnya, Ya Allah)        │
+│  DESC    : Bikin sistem pinjam ruangan kampus yang│
+│            kelihatannya simpel — tapi logika      │
+│            jadwalnya bikin gue maag akut sebulan. │
+│            Role-based access, real-time slot,     │
+│            semuanya jalan. Perut udah baikan.     │
 └───────────────────────────────────────────────────┘
 ```
 
@@ -210,15 +217,16 @@
 
 ```
 ┌─── KAWAN UMKM ───────────────────────────────────┐
-│  TYPE    : SME Digital Empowerment Platform       │
+│  TYPE    : Platform Digitalisasi UMKM Indonesia   │
 │  STACK   : Python (BE) · React · TypeScript (FE)  │
-│  ROLE    : Full-Stack + Team Lead                 │
-│  STATUS  : 🏆 MIA 2025 FINALIST — Web In Action   │
-│  TEAM    : Tim Sekawan Papat                      │
-│  DESC    : Full-stack platform helping Indonesian │
-│            micro-SMEs digitize operations, manage │
-│            products & access business analytics.  │
-│            Python REST backend + React SPA.        │
+│  ROLE    : Full-Stack + Komandan Tim              │
+│  STATUS  : 🏆 FINALIS MIA 2025 — Web In Action    │
+│  TEAM    : Tim Sekawan Papat (4 orang gila)       │
+│  DESC    : Ini proyek paling gue banggain. UMKM   │
+│            lokal bisa kelola produk, digitalisasi │
+│            usaha, & lihat analitik bisnis mereka. │
+│            Python REST backend + React SPA.       │
+│            Kerja keras Tim Sekawan Papat terbayar.│
 └───────────────────────────────────────────────────┘
 ```
 
@@ -231,15 +239,17 @@
 
 ```
 ┌─── LOCKERROOM CLOTHING + 3D PORTFOLIO ───────────┐
-│  TYPE    : E-Commerce + Immersive 3D Portfolio    │
+│  TYPE    : E-Commerce + Portfolio WebGL 3D        │
 │  STACK   : TypeScript · Three.js · React · Vite  │
-│  ROLE    : Lead Dev + 3D Artist + Designer        │
-│  STATUS  : 🟢 LIVE                                │
-│  DESC    : High-performance TypeScript e-commerce │
-│            storefront with full cart & checkout.  │
-│            Paired with a Three.js 3D portfolio    │
-│            featuring WebGL shader animations &    │
-│            immersive scroll-driven experiences.   │
+│  ROLE    : Dev + 3D Artist + Designer (sendiri)   │
+│  STATUS  : 🟢 LIVE (abis ini istirahat dulu dong) │
+│  DESC    : Toko baju TypeScript full-feature buat │
+│            TEM Production — Ko Tim minta, gue     │
+│            eksekusi. Portfolio 3D pake Three.js + │
+│            WebGL shader animasi yang proses        │
+│            bikinnya bikin gue tipes beneran.      │
+│            Hasilnya? Estetik parah. Worth it kah? │
+│            Tanyain aja ke dokter yang nanganin.   │
 └───────────────────────────────────────────────────┘
 ```
 
@@ -254,9 +264,9 @@
 
 <div align="center">
 
-### `〔 06 〕` ⬡ NEURAL ACTIVITY GRAPH
+### `〔 06 〕` ⬡ GRAFIK AKTIVITAS NEURAL — POLA HIDUP GUE (SPOILER: MALEM TERUS)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanannn24&bg_color=0d0d0d&color=00f5ff&line=7b5ea7&point=00f5ff&area=true&area_color=00f5ff&hide_border=true&custom_title=CONTRIBUTION+SIGNAL+%7C+LAST+12+MONTHS&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanannn24&bg_color=0d0d0d&color=00f5ff&line=7b5ea7&point=00f5ff&area=true&area_color=00f5ff&hide_border=true&custom_title=SINYAL+COMMIT+%7C+12+BULAN+TERAKHIR+%7C+KAPAN+GUE+TIDUR+SEBENERNYA%3F&radius=8" width="95%"/>
 
 </div>
 
@@ -266,7 +276,7 @@
 
 <div align="center">
 
-### `〔 07 〕` ⬡ ACHIEVEMENT REGISTRY
+### `〔 07 〕` ⬡ LEMARI PIALA — PENCAPAIAN YANG BIKIN GUE NANGIS DULU SEBELUMNYA
 
 <img src="https://github-profile-trophy.vercel.app/?username=nandanannn24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="95%"/>
 
@@ -276,27 +286,33 @@
 
 <!-- ██████████████████ CONTACT ██████████████████ -->
 
-### `〔 08 〕` ⬡ ESTABLISH SECURE CONNECTION
+### `〔 08 〕` ⬡ KIRIM SINYAL — KALAU MAU NGAJAK KERJA SAMA ATAU SEKEDAR NGOBROL
 
 <table width="100%" border="0" cellspacing="0" cellpadding="8">
 <tr>
 <td width="60%" valign="top">
 
 ```bash
-# INITIALIZE HANDSHAKE PROTOCOL
+# PROTOKOL KONTAK :: BISA LEWAT SINI
 $ curl --request CONNECT \
     --url "mailto:priyogalistyoananda26@gmail.com" \
-    --header "Subject: [COLLAB] Let's Build Something Insane" \
-    --data "{ 'from': 'YOU', 'intent': 'HIRE | COLLAB | DISCUSS' }"
+    --header "Subject: [COLLAB] Bro, gue punya ide gila nih" \
+    --data "{
+      'dari'    : 'KAMU',
+      'niat'    : 'HIRE | COLLAB | NGOBROL | CURHAT CODING',
+      'catatan' : 'Gue bales max 24 jam, asal Ko Tim ga lagi
+                   nyuruh lembur mendadak lagi'
+    }"
 
-# RESPONSE TIME: ~24h
-# ENCRYPTION: PGP-ready
-# VIBE CHECK: Always passing ✅
+# WARNING : Jangan bilang "bisa minta tolong sebentar?"
+#           Di kamus developer, 'sebentar' itu tidak ada.
+# NOTE    : Pak Ajun, kalau Bapak baca ini,
+#           tolong nilai saya baik-baik ya Pak. 🙏
 ```
 
-> **Open to:** freelance contracts, open-source collaboration,
-> AI/LLM integration consulting, 3D web projects, and anything
-> that pushes the boundary of what's possible on the web.
+> **Terbuka untuk:** freelance, open-source, konsultasi AI/LLM,
+> proyek web 3D, atau apapun yang bayarannya cukup buat bayar
+> kopi warkop sebulan dan beli skin Freya baru.
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -311,7 +327,7 @@ $ curl --request CONNECT \
 
 <br/>
 
-![Available](https://img.shields.io/badge/AVAILABILITY-OPEN_TO_OPPORTUNITIES-00f5ff?style=for-the-badge&labelColor=0d0d0d)
+![Available](https://img.shields.io/badge/STATUS-OPEN_(NUNGGU_ACC_PAK_AJUN_DULU)-00f5ff?style=for-the-badge&labelColor=0d0d0d)
 
 </td>
 </tr>
@@ -325,16 +341,17 @@ $ curl --request CONNECT \
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d0d0d,50:0a0a2e,100:0d0d0d&section=footer&text=&fontColor=00f5ff&fontSize=0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=4000&pause=1000&color=7b8cde&center=true&vCenter=true&width=600&height=30&lines=%22The+best+way+to+predict+the+future+is+to+engineer+it.%22;%22Dark+mode+isn%27t+a+preference.+It%27s+a+personality.%22;%22Ship+it.+Iterate.+Dominate.%22" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=4000&pause=1000&color=7b8cde&center=true&vCenter=true&width=700&height=30&lines=%22Dibuat+pake+keringat%2C+kopi+warkop%2C+sama+doa+biar+Pak+Ajun+ACC.%22;%22Ko+Tim+bilang+revisi+dikit%2C+ternyata+bikin+ulang+dari+nol.%22;%22Freya+bisa+carry+game%2C+kenapa+deadline+ga+bisa+di-carry%3F%22" />
 
 <br/>
 
 <sub>
 <code>
-⬡ Architected with obsessive precision by
+⬡ Dibikin dengan penuh drama oleh
 <a href="https://github.com/nandanannn24">nandanannn24</a>
-· Powered by ☕ + late nights + Freya mechanics
-· Last sync: auto-updated via GitHub Actions
+· Bahan bakar: ☕ kopi + malam minggu yang rela dikorbankan + semangat push rank
+· Pacar Data Science 2022 udah dikasih tau bahwa ini demi masa depan bersama
+· Auto-update tiap commit — sama kayak semangat gue: naik turun tapi ga pernah mati
 </code>
 </sub>
 
