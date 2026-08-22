@@ -1,113 +1,162 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=NandaNannn&fontSize=72&fontColor=00f5ff&color=0:0b0914,50:1e1136,100:0b0914&stroke=9d4edd&strokeWidth=1.2&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist%20%7C%20Civic-Tech%20Engineer&descAlignY=75&descSize=15&descColor=b829ea" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&multiline=false&width=720&height=45&lines=%3E+Full-Stack+Developer+%26+Creative+Technologist;%3E+Informatics+Student+%40+UPN+Veteran+Jawa+Timur;%3E+Building+Civic-Tech+Systems+for+Local+Government;%3E+Blending+Code%2C+Design+%26+3D+Web+Experiences;%3E+Open+to+Full-Stack+%26+Creative+Collaborations" alt="Typing SVG"/>
-
-<br/>
-
-<img alt="Status" src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-00f5ff?style=for-the-badge&labelColor=0b0914"/>
-<img alt="Location" src="https://img.shields.io/badge/LOCATION-SIDOARJO_INDONESIA-9d4edd?style=for-the-badge&labelColor=0b0914"/>
-<img alt="Focus" src="https://img.shields.io/badge/FOCUS-FULL--STACK_%26_CIVIC--TECH-1e1136?style=for-the-badge&labelColor=0b0914"/>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=nandanannn24&style=for-the-badge&color=9d4edd&label=PROFILE+VIEWS&abbreviated=true"/>
-
-<br/><br/>
-
-<a href="mailto:priyogalistyoananda26@gmail.com"><img src="https://img.shields.io/badge/GMAIL-priyogalistyoananda26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0914"/></a>
-<a href="https://github.com/nandanannn24"><img src="https://img.shields.io/badge/GITHUB-nandanannn24-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0914"/></a>
-<a href="https://instagram.com/nandanannn"><img src="https://img.shields.io/badge/INSTAGRAM-nandanannn-C13584?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0914"/></a>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:6C63FF,100:00D9FF&width=1200" width="100%"/>
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+<div align="center">
 
-| | |
-|:--|:--|
-| 🎓 **Education** | Informatics (S1), UPN "Veteran" Jawa Timur — GPA 3.839 / 4.00 |
-| 💼 **Currently** | Interning at Disdukcapil Kab. Sidoarjo, modernizing civic administration systems |
-| 🎨 **Also working as** | Design & Cinematic Video Staff @ TEM Production · Creative & Technology Collaborator @ Patdev Studio |
-| 🤝 **Collaborating with** | Diskominfo Sidoarjo on civic-tech initiatives |
-| 🌱 **Currently building** | Nexus-Omni · SiPeRu (campus room reservation system) |
-| 📍 **Based in** | Sidoarjo / Surabaya, Indonesia — open to Work-From-Anywhere |
-| 💬 **Ask me about** | Full-stack development, 3D/web design, or civic-tech systems |
+# Priyoga Listyo Ananda
 
-<details>
-<summary><strong>🏆 Beyond the code</strong></summary>
-<br/>
+### Full-Stack Developer · Creative Technologist · Civic-Tech Engineer
 
-- Active member, **HIMATIFA** (Informatics Student Association), UPN "Veteran" Jawa Timur
-- Semifinalist, **ITS Injection 2023**
-- A multidisciplinary profile spanning software engineering, visual/3D design, and organizational leadership
-
-</details>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=560&height=32&lines=Full-Stack+Web+Development;3D+%26+Interactive+Experiences;AI-Driven+Automation;Civic-Tech+Systems+Engineering" alt="Typing SVG"/>
 
 <br/>
 
-## 🛠️ Tech Stack
+<img alt="status" src="https://img.shields.io/badge/status-open_to_opportunities-6C63FF?style=flat-square&labelColor=0d1117"/>
+<img alt="location" src="https://img.shields.io/badge/based_in-Sidoarjo,_Indonesia-00D9FF?style=flat-square&labelColor=0d1117"/>
+<img alt="education" src="https://img.shields.io/badge/informatics_student-GPA_3.839%2F4.00-6C63FF?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<a href="mailto:priyogalistyoananda26@gmail.com">
+<img src="https://img.shields.io/badge/Email-priyogalistyoananda26%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://github.com/nandanannn24">
+<img src="https://img.shields.io/badge/GitHub-nandanannn24-0d1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/nandanannn">
+<img src="https://img.shields.io/badge/Instagram-nandanannn-0d1117?style=flat-square&logo=instagram&logoColor=E4405F"/>
+</a>
+
+</div>
+
+<br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C63FF,100:00D9FF&width=1200" width="100%"/></div>
+<br/>
+
+## About
+
+I'm a fourth-semester Informatics student at UPN "Veteran" Jawa Timur, currently interning at the Civil Registry Office (Disdukcapil) of Kabupaten Sidoarjo, where I help modernize civic administration systems. Alongside my studies, I work as a Design & Cinematic Video Staff at TEM Production, a Creative & Technology Collaborator at Patdev Studio, and collaborate with Diskominfo Sidoarjo on civic-tech initiatives.
+
+My background spans full-stack engineering, 3D/visual design, and organizational leadership — I move comfortably between backend architecture, interface design, and creative production.
+
+- 🎓 Informatics (S1), UPN "Veteran" Jawa Timur — GPA 3.839 / 4.00
+- 🏛️ Interning at Disdukcapil Kabupaten Sidoarjo
+- 🎬 Design & Cinematic Video Staff @ TEM Production
+- 🧩 Creative & Technology Collaborator @ Patdev Studio
+- 🤝 Civic-tech collaborator with Diskominfo Sidoarjo
+- 🏆 HIMATIFA member · ITS Injection 2023 semifinalist
+
+<br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C63FF,100:00D9FF&width=1200" width="100%"/></div>
+<br/>
+
+## What I Do
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="25%" valign="top">
 
-**Backend & Systems**
+**🖥️ Full-Stack Engineering**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,laravel,mysql,mongodb,debian,linux&theme=dark&perline=7"/>
-
-<sub>VMware · MikroTik · Advanced Bash Scripting</sub>
+Building scalable web applications end to end — from database schema to polished, production-ready UI.
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="25%" valign="top">
 
-**Frontend & 3D Web**
+**🎮 3D & Interactive Web**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,threejs,figma&theme=dark&perline=7"/>
-
-<sub>WebGL · Minimalist, motion-driven interfaces</sub>
+Crafting immersive, motion-driven experiences with WebGL, React Three Fiber, and thoughtful animation.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="25%" valign="top">
 
-**AI & Automation**
+**🤖 AI & Automation**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,python,githubactions,discord&theme=dark&perline=7"/>
-
-<sub>n8n · LLM APIs · Workflow Automation</sub>
+Designing automation pipelines and AI-assisted workflows — from chatbots to smart system integrations.
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="25%" valign="top">
 
-**Creative Production**
+**🎬 Creative Production**
 
-<img src="https://skillicons.dev/icons?i=blender,ae,pr,figma,ps&theme=dark&perline=7"/>
-
-<sub>Blender · Premiere Pro · After Effects</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-**Infrastructure & DevTools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,nginx,cloudflare&theme=dark&perline=7"/>
+Directing and editing cinematic video content with Blender, Premiere Pro, and After Effects.
 
 </td>
 </tr>
 </table>
 
 <br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C63FF,100:00D9FF&width=1200" width="100%"/></div>
+<br/>
 
-## 🚀 Featured Projects
+## Tech Stack
+
+**Languages & Markup**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+**Frameworks & Libraries**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+
+**Data & Infrastructure**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+**Creative & Design Tools**
+<br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+
+**AI & Automation**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+<br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C63FF,100:00D9FF&width=1200" width="100%"/></div>
+<br/>
+
+## Experience
+
+- **Disdukcapil Kabupaten Sidoarjo** — Intern, modernizing civic administration systems
+- **TEM Production** — Design & Cinematic Video Staff
+- **Patdev Studio** — Creative & Technology Collaborator
+- **Diskominfo Sidoarjo** — Civic-Tech Collaborator
+
+<br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C63FF,100:00D9FF&width=1200" width="100%"/></div>
+<br/>
+
+## Featured Projects
 
 <details open>
 <summary><strong>🛍️ Lockerroom Clothing</strong> — Screen-Printing E-Commerce Platform</summary>
 <br/>
 
-**Role:** Full-Stack Developer &nbsp;|&nbsp; **Stack:** React · Vite · WebGL · Netlify
+**Role:** Full-Stack Developer &nbsp;·&nbsp; **Stack:** React · Vite · WebGL · Netlify
 
 A modern e-commerce web app for custom screen-printing orders, with an intuitive product-selection flow and streamlined order processing.
 
@@ -119,7 +168,7 @@ A modern e-commerce web app for custom screen-printing orders, with an intuitive
 <summary><strong>🏠 Teras Rumah Karlos</strong> — Retail & Printing Services Storefront</summary>
 <br/>
 
-**Role:** Lead Full-Stack Developer &nbsp;|&nbsp; **Stack:** React · Tailwind CSS · Netlify
+**Role:** Lead Full-Stack Developer &nbsp;·&nbsp; **Stack:** React · Tailwind CSS · Netlify
 
 A digital storefront for office supplies, printing, photocopying, and passport-photo services, streamlining a local business's day-to-day operations.
 
@@ -131,7 +180,7 @@ A digital storefront for office supplies, printing, photocopying, and passport-p
 <summary><strong>🏆 TITIK — IYREF Competition</strong> — Event & Competition Management</summary>
 <br/>
 
-**Role:** Frontend / Team Developer &nbsp;|&nbsp; **Stack:** React · Next.js · Vercel
+**Role:** Frontend / Team Developer &nbsp;·&nbsp; **Stack:** React · Next.js · Vercel
 
 Official website for the IYREF competition, built collaboratively with a team to manage event operations and participant registration.
 
@@ -143,7 +192,7 @@ Official website for the IYREF competition, built collaboratively with a team to
 <summary><strong>🤖 WhatsApp Bot Integration</strong> — Automated AI Assistant</summary>
 <br/>
 
-**Role:** System Integrator & AI Engineer &nbsp;|&nbsp; **Stack:** Node.js · whatsapp-web.js · REST APIs
+**Role:** System Integrator & AI Engineer &nbsp;·&nbsp; **Stack:** Node.js · whatsapp-web.js · REST APIs
 
 An AI-powered WhatsApp chatbot integrated with external APIs for automated workflows and smart, context-aware responses.
 
@@ -152,76 +201,60 @@ An AI-powered WhatsApp chatbot integrated with external APIs for automated workf
 </details>
 
 <br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C63FF,100:00D9FF&width=1200" width="100%"/></div>
+<br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nandanannn24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&icon_color=9d4edd&text_color=c9d1d9&border_radius=12&include_all_commits=true&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nandanannn24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=00D9FF&text_color=c9d1d9&border_radius=10&include_all_commits=true&rank_icon=github" width="100%"/>
 </td>
 <td width="45%" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nandanannn24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0914&title_color=00f5ff&text_color=c9d1d9&border_radius=12&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nandanannn24&layout=compact&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&border_radius=10&langs_count=8" width="100%"/>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=nandanannn24&theme=tokyonight&hide_border=true&background=0b0914&ring=00f5ff&fire=9d4edd&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=b829ea&stroke=9d4edd30&border_radius=12" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=nandanannn24&hide_border=true&background=0d1117&ring=6C63FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&stroke=6C63FF30&border_radius=10" width="80%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanannn24&bg_color=0b0914&color=00f5ff&line=9d4edd&point=00f5ff&area=true&area_color=9d4edd&hide_border=true&custom_title=Consistent+System+Contributions&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandanannn24&bg_color=0d1117&color=00D9FF&line=6C63FF&point=00D9FF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution+Activity&radius=10" width="95%"/>
 </div>
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandanannn24/nandanannn24/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandanannn24/nandanannn24/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nandanannn24/nandanannn24/output/github-contribution-grid-snake.svg" width="95%"/>
-</picture>
-
-<sub>Animates once the <code>snake.yml</code> workflow below has run at least once — see setup note.</sub>
-
-</div>
-
-<div align="center">
-
-### 🏅 Trophy Cabinet
-
-<img src="https://github-profile-trophy.vercel.app/?username=nandanannn24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="95%"/>
-
-</div>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nandanannn24&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="95%"/>
 </div>
 
 <br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6C63FF,100:00D9FF&width=1200" width="100%"/></div>
+<br/>
 
-## 📬 Let's Connect
+## Let's Connect
 
-I'm actively open to roles or contracts involving **full-stack development**, **3D/interactive web experiences**, and **AI or automation integrations**. Standard response time is within 24 business hours.
+I'm actively open to roles or contracts in **full-stack development**, **3D/interactive web experiences**, and **AI or automation integrations**. Standard response time is within 24 business hours.
 
 <div align="center">
 
-<a href="mailto:priyogalistyoananda26@gmail.com"><img src="https://img.shields.io/badge/GMAIL-priyogalistyoananda26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0914"/></a>
-<a href="https://github.com/nandanannn24"><img src="https://img.shields.io/badge/GITHUB-nandanannn24-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0914"/></a>
-<a href="https://instagram.com/nandanannn"><img src="https://img.shields.io/badge/INSTAGRAM-nandanannn-C13584?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0914"/></a>
+<a href="mailto:priyogalistyoananda26@gmail.com">
+<img src="https://img.shields.io/badge/Email-priyogalistyoananda26%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://github.com/nandanannn24">
+<img src="https://img.shields.io/badge/GitHub-nandanannn24-0d1117?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/nandanannn">
+<img src="https://img.shields.io/badge/Instagram-nandanannn-0d1117?style=flat-square&logo=instagram&logoColor=E4405F"/>
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:1a1f2e,100:0d1117&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0b0914,50:1e1136,100:0b0914&section=footer" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=4000&pause=1000&color=b829ea&center=true&vCenter=true&width=700&height=30&lines=%22Striving+for+excellence+in+every+commit.%22;%22Building+robust+and+scalable+architectures.%22;%22Code%2C+Deploy%2C+Optimize%2C+Repeat.%22"/>
-
-<sub><code>⬡ Crafted by <a href="https://github.com/nandanannn24">nandanannn24</a></code></sub>
-
+<sub>© 2026 Priyoga Listyo Ananda · <a href="https://github.com/nandanannn24">nandanannn24</a></sub>
 </div>
