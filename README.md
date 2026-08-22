@@ -218,7 +218,7 @@ An AI-powered WhatsApp chatbot integrated with external APIs for automated workf
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=nandanannn24&hide_border=true&background=0d1117&ring=6C63FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&stroke=6C63FF30&border_radius=10" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandanannn24&hide_border=true&background=0d1117&ring=6C63FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&stroke=6C63FF30&border_radius=10" width="80%"/>
 </div>
 
 <div align="center">
